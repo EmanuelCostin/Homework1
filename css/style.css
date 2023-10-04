@@ -1,0 +1,38 @@
+
+  /* Button-Top */
+.web-text-color {
+    color: #2196F3;
+    background-color: greenyellow;
+    width: 46px;
+}
+
+.studio-text-color {
+    color: #000000;
+    background-color: red;
+    width: 66px;
+}
+
+.Studio-button {
+    color: #2196F3;
+}
+
+.Portofoliu-button {
+    color: #212121;
+}
+
+.Contacts-button {
+    color: #212121;
+}
+
+.Email-button {
+    color: #2196F3;
+}
+
+.Number-button {
+    color: #757575;
+    text-decoration: none;
+}
+
+.Button-Top-Section {
+    text-shadow: 20px;
+}
