@@ -1,38 +1,77 @@
+html {
+    width: 1600px;
+    height: 2348px;
+    top: -1664px;
+    left: 1387px;
+}
+
+    
+body {
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
 
   /* Button-Top */
 .web-text-color {
+    width: 145px;
+    height: 31px;
+    margin-top: 24px;
+    margin-left: 215px;
+    font: sans-serif; 
     color: #2196F3;
-    background-color: greenyellow;
-    width: 46px;
 }
 
 .studio-text-color {
+    width: 145px;
+    height: 31px;
+    margin-top: 24px;
+   padding-left: 0px;
     color: #000000;
-    background-color: red;
-    width: 66px;
 }
 
 .Studio-button {
+    width: 42px;
+    height: 16px;
+    margin-top: 32px;
+    margin-left: 93px;
+    text-decoration: none;
     color: #2196F3;
 }
 
 .Portofoliu-button {
+    width: 58px;
+    height: 16px;
+    margin-top: 32px;
+    margin-left: 50px;
+    text-decoration: none;
+    background-color: transparent;
     color: #212121;
 }
 
 .Contacts-button {
+    width: 65px;
+    height: 16px;
+    margin-top: 32px;
+    margin-left: 44px;
+    text-decoration: none;
     color: #212121;
 }
 
 .Email-button {
+    width: 135px;
+    height: 16px;
+    margin-top: 32px;
+    margin-left: 385px;
+    text-decoration: none;
     color: #2196F3;
 }
 
 .Number-button {
+    width: 113px;
+    height: 16px;
+    margin-top: 32px;
+    margin-left: 40px;
     color: #757575;
     text-decoration: none;
-}
-
-.Button-Top-Section {
-    text-shadow: 20px;
 }
